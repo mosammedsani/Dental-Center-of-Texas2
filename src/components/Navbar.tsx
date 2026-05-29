@@ -115,7 +115,7 @@ export default function Navbar({ activeTab, setActiveTab, onRequestAppointment, 
             <img 
               src={clinicLogo} 
               alt="Dental Center of Texas" 
-              className="h-10 xl:h-12 w-auto object-contain transition-transform duration-200 group-hover:scale-102"
+              className="h-14 xl:h-16 w-auto object-contain transition-transform duration-200 group-hover:scale-102"
               referrerPolicy="no-referrer"
             />
           </div>
